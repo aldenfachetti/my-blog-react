@@ -23,13 +23,13 @@ const MenuBar = () => (
       </S.MenuBarLink>
     </S.MenuBarGroup>
     <S.MenuBarGroup>
-      <S.MenuBarItem to="" title="Mudar o tema">
+      <S.MenuBarItem title="Mudar o tema">
         <Light />
       </S.MenuBarItem>
-      <S.MenuBarItem to="" title="Mudar visualização">
+      <S.MenuBarItem title="Mudar visualização">
         <Grid />
       </S.MenuBarItem>
-      <S.MenuBarItem to="" title="Ir para o Topo">
+      <S.MenuBarItem title="Ir para o Topo">
         <Arrow />
       </S.MenuBarItem>
     </S.MenuBarGroup>

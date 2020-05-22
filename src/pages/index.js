@@ -11,6 +11,9 @@ const IndexPage = () => {
       allMarkdownRemark {
         edges {
           node {
+            fields {
+              slug
+            }
             frontmatter {
               background
               category
@@ -26,7 +29,6 @@ const IndexPage = () => {
   `)
 
   const postList = allMarkdownRemark.edges
-
   return (
     <Layout>
       <SEO title="Home" />
@@ -35,10 +37,11 @@ const IndexPage = () => {
           node: {
             frontmatter: { background, category, date, title, description },
             timeToRead,
+            fields: { slug },
           },
         }) => (
           <PostItem
-            slug="/about/"
+            slug={slug}
             background={background}
             category={category}
             date={date}

@@ -1,6 +1,6 @@
 ---
-date: 2020-01-03 05:50:19
-title: Two things are infinite 02
+date: 2002-01-03 05:50:19
+title: Front-end Victory
 description: And I'm not sure about the universe.
 category: JS
 background: "purple"

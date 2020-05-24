@@ -6,17 +6,93 @@ category: misc
 background: "grey"
 ---
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [bibendum](http://google.com) eu pulvinar vel, sodales vitae dui.
+# Johnny Coder
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+---
 
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
+1 MyAddress email@example.com
+MyTown 1000 @twitter_handle
+MyCountry 1800 my-phone-nr
 
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
-> Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
+---
 
-### Cras semper consectetur elementum
+## Education
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+2010-2014 (expected)
+: **PhD, Computer Science**; Awesome University (MyTown)
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2007-2010
+: **BSc, Computer Science and Electrical Engineering**; University of
+HomeTown (HomeTown)
+
+    *Minor: Awesomeology*
+
+## Experience
+
+**Your Most Recent Work Experience:**
+
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
+
+- First item
+
+- Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
+
+**That Other Job You Had**
+
+Also with a short description.
+
+## Technical Experience
+
+My Cool Side Project
+: For items which don't have a clear time ordering, a definition
+list can be used to have named items.
+
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
+
+Open Source
+: List open source contributions here, perhaps placing emphasis on
+the project names, for example the **Linux Kernel**, where you
+implemented multithreading over a long weekend, or **node.js**
+(with [link](http://nodejs.org)) which was actually totally
+your idea...
+
+Programming Languages
+: **first-lang:** Here, we have an itemization, where we only want
+to add descriptions to the first few items, but still want to
+mention some others together at the end. A format that works well
+here is a description list where the first few items have their
+first word emphasized, and the last item contains the final few
+emphasized terms. Notice the reasonably nice page break in the pdf
+version, which wouldn't happen if we generated the pdf via html.
+
+: **second-lang:** Description of your experience with second-lang,
+perhaps again including a [link][ref], this time placing the url
+reference elsewhere in the document to reduce clutter (see source
+file).
+
+: **obscure-but-impressive-lang:** We both know this one's pushing
+it.
+
+: Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+
+[ref]: https://github.com/githubuser/superlongprojectname
+
+## Extra Section, Call it Whatever You Want
+
+- Human Languages:
+
+  - English (native speaker)
+  - ???
+  - This is what a nested list looks like.
+
+- Random tidbit
+
+- Other sort of impressive-sounding thing you did

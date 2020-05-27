@@ -16,7 +16,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     createNodeField({
       node,
       name: "slug",
-      value: `/${slug.slice(12)}`,
+      value: `/${slug.slice(10)}`,
     })
   }
 }
@@ -38,6 +38,7 @@ exports.createPages = ({ graphql, actions }) => {
               date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
               title
               description
+              image
             }
             timeToRead
           }
